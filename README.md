@@ -85,7 +85,7 @@ Please cite as: _"Mitogenomes from NGS data, GitHub repository at https://github
 
 > Want to share your relevant links? Place a Direct Message to @labcflores or @resocios on Twitter (see below).
 
-<p align="right">
+ <p align="left">
   <a href="#toc" title="Up">
     <img src="https://github.com/genomicsITER/mitogenomes/blob/main/images/ITER_logo.png" width="30%" />
   </a>
