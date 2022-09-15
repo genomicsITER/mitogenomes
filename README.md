@@ -25,8 +25,8 @@ Working on it. Stay tunned!
 Text here.
 
 <p align="right">
-  <a href="#toc" title="Up">
-    <img src="https://github.com/genomicsITER/mitogenomes/blob/main/images/ITER_logo.png" width="30%" />
+  <a href="#sex-check-qc" title="Up">
+    <img src="https://github.com/genomicsITER/mitogenomes/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -41,8 +41,8 @@ This repository and data exports are released under the CC BY 4.0 license. Pleas
 Please cite as: _"Mitogenomes from NGS data, GitHub repository at https://github.com/genomicsITER/mitogenomes (accessed on YYYY-MM-DD)"_.
 
 <p align="right">
-  <a href="#toc" title="Up">
-    <img src="https://github.com/genomicsITER/mitogenomes/blob/main/images/ITER_logo.png" width="30%" />
+  <a href="#sex-check-qc" title="Up">
+    <img src="https://github.com/genomicsITER/mitogenomes/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 > September 15, 2022. The repository is populated with the first content.
 
 <p align="right">
-  <a href="#toc" title="Up">
+  <a href="#sex-check-qc" title="Up">
     <img src="https://github.com/genomicsITER/mitogenomes/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
