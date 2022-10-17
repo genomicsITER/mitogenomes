@@ -5,12 +5,6 @@ This repository contains materials used for the manuscript entitled: "Digging in
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-# About #
-Scripts
-
-<hr>
-<!-- ------------------ SECTION ------------------ -->
-
 # Authors #
 Víctor García-Olivares, Luis A. Rubio-Rodríguez, Adrián Muñoz-Barrera, Ana Díaz-de Usera, David Jáspez, Antonio Iñigo Campos, María Del Cristo Rodríguez Pérez, Antonio Cabrera de León, José M. Lorenzo-Salazar, Rafaela González-Montelongo, Vicente M. Cabrera, Carlos Flores
 
