@@ -42,3 +42,8 @@ The `scripts` folder contains code to generate data used in the paper. As a gene
 | --- | --- |
 | bootstrap_rho.py | Generate bootstrapped mtDNA alignments from a sequence aligned in `PHYLIP` format (.phy extension). |
 
+<p align="right">
+  <a href="#sex-check-qc" title="Up">
+    <img src="https://github.com/genomicsITER/mitogenomes/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
