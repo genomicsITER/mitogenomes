@@ -29,7 +29,7 @@ The mitogenome of 896 unrelated canaries was sequenced by means of next-generati
 
 # About this repository #
 
-This repository contains materials used for the manuscript entitled: _"Digging into the admixture strata of current-day Canary Islanders based on mitogenomes"_.
+This repository contains materials used for the manuscript entitled: _"Digging into the admixture strata of current-day Canary Islanders based on mitogenomes"_. This work is part of the <a href="https://github.com/genomicsITER/mitogenomes">_"Mitogenomes from NGS data"_</a> initiative from ITER.
 
 <p align="right">
   <a href="#top" title="Up">
