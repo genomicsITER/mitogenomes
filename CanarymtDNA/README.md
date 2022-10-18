@@ -14,7 +14,7 @@ The European conquest of the Canary Islands began at the beginning of the fiftee
 The mitogenome of 896 unrelated canaries was sequenced by means of next-generation sequencing (NGS), obtaining the largest and most comprehensive maternal genetic characterization of the Canarian population to date.
 
 <p align="center">
-  <img src="https://github.com/genomicsITER/..." title="Overview of the bioinformatics workflow" style="width: 75%;"/>
+  <img src="https://github.com/genomicsITER/mitogenomes/blob/main/CanarymtDNA/images/CanarymtDNA_workflow-overview.png" title="Overview of the processing workflow" style="width: 75%;"/>
 </p>
 <p align="center">
 <b>Figure 1.</b> Overview of the bioinformatics workflow.
