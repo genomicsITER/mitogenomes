@@ -46,7 +46,7 @@ The `scripts` folder contains code to generate data used in the paper. As a gene
 
 | File | Description |
 | --- | --- |
-| bootstrap_rho.py | Generate bootstrapped mtDNA alignments from a sequence aligned in `PHYLIP` format (.phy extension). |
+| <a href="https://github.com/genomicsITER/mitogenomes/blob/main/CanarymtDNA/scripts/bootstrap_rho.py">bootstrap_rho.py</a> | Generate bootstrapped mtDNA alignments from a sequence aligned in `PHYLIP` format (.phy extension). |
 
 <p align="right">
   <a href="#top" title="Up">
