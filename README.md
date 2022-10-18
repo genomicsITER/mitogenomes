@@ -26,7 +26,7 @@ This is the result of a continuous collaborative effort of the following Institu
 
 ## Table of contents ##
 <ul>
-  <li><a href="#Mitogenomes and NGS data projects</a></li>
+  <li><a href="#Mitogenomes and NGS data projects">Mitogenomes and NGS data projects</a></li>
   <ul>
     <li><a href="#Digging into the admixture strata of current-day Canary Islanders based on mitogenomes">Digging into the admixture strata of current-day Canary Islanders based on mitogenomes</a></li>
   </ul>
@@ -44,7 +44,7 @@ This is the result of a continuous collaborative effort of the following Institu
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-## Some heading text here ##
+## Mitogenomes and NGS data projects ##
 
 Text here. Stay tunned!
 
