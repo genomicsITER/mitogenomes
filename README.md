@@ -19,7 +19,6 @@ This is the result of a continuous collaborative effort of the following Institu
  <li><a href="https://www3.gobiernodecanarias.org/sanidad/scs/organica.jsp?idCarpeta=10b3ea46-541b-11de-9665-998e1388f7ed">Servicio de Microbiología, Hospital Universitario Ntra. Sra. de Candelaria</a>, 38010 Santa Cruz de Tenerife, Spain.</li>
  <li><a href="https://fciisc.org/">Fundación Canaria Instituto de Investigación Sanitaria de Canarias</a> at the Research Unit, Hospital Universitario Ntra. Sra. de Candelaria</a>, 38010 Santa Cruz de Tenerife, Spain.</li>
  <li><a href="https://www.iter.es/areas/area-genomica/">Genomics Division, Instituto Tecnológico y de Energías Renovables</a>, 38600 Santa Cruz de Tenerife, Spain.</li>
- <li>More text coming here...</li>
 </ul>
 
 <hr>
@@ -27,19 +26,13 @@ This is the result of a continuous collaborative effort of the following Institu
 
 ## Table of contents ##
 <ul>
-  <li><a href="#Mitogenomes">Mitogenomes and NGS data</a></li>
-  <li><a href="#Bioinformatic pipelines">Bioinformatic pipelines</a></li>
+  <li><a href="#Mitogenomes and NGS data projects</a></li>
   <ul>
-    <li><a href="#Description">Description</a></li>
-    <li><a href="#Software">Software</a></li>
-    <li><a href="#Coding">Coding</a></li>
+    <li><a href="Digging into the admixture strata of current-day Canary Islanders based on mitogenomes">Digging into the admixture strata of current-day Canary Islanders based on mitogenomes</a></li>
   </ul>
-  <li><a href="#References">References</a></li>
-  <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#License and Attribution">License and Attribution</a></li>
   <li><a href="#Participating">Participating</a></li>
   <li><a href="#Update logs">Update logs</a></li>
-  <li>More text coming here...</li>
   </ul>
 
 <p align="right">
@@ -108,6 +101,7 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 ## Update logs ##
 
 > September 15, 2022. The repository is populated with the first content.
+> October 18, 2022. Added "Digging into the admixture strata of current-day Canary Islanders based on mitogenomes" project.
 
 <p align="right">
   <a href="#sex-check-qc" title="Up">
