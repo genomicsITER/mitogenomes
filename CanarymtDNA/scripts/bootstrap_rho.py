@@ -1,6 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+'''
+  Developed and maintained by Luis A. Rubio-Rodríguez & Víctor García-Olivares
+  Researchers on Human Genetics working at the Genomics Division
+    of the Institute of Technology an Renewable Energy (ITER)
+    Tenerife, Canary Islands, SPAIN
+  Permalink: https://github.com/genomicsITER/mitogenomes/blob/main/CanarymtDNA/scripts/bootstrap_rho.py
+  See the "Contact us" section to collaborate with us to growth this repository. ;=)
+'''
+
 # Usage example (for python3): python bootstrap_rho.py MT_Alignment_H1cf_boot3600.phy
 
 from csv import reader
