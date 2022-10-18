@@ -44,7 +44,7 @@ This is the result of a continuous collaborative effort of the following Institu
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-<a name="itogenomes and NGS data projects"></a>
+<a name="Mitogenomes and NGS data projects"></a>
 ## Mitogenomes and NGS data projects ##
 
 Text here. Stay tunned!
