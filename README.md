@@ -28,12 +28,12 @@ This is the result of a continuous collaborative effort of the following Institu
 <ul>
   <li><a href="#Mitogenomes and NGS data projects</a></li>
   <ul>
-    <li><a href="Digging into the admixture strata of current-day Canary Islanders based on mitogenomes">Digging into the admixture strata of current-day Canary Islanders based on mitogenomes</a></li>
+    <li><a href="#Digging into the admixture strata of current-day Canary Islanders based on mitogenomes">Digging into the admixture strata of current-day Canary Islanders based on mitogenomes</a></li>
   </ul>
   <li><a href="#License and Attribution">License and Attribution</a></li>
   <li><a href="#Participating">Participating</a></li>
   <li><a href="#Update logs">Update logs</a></li>
-  </ul>
+</ul>
 
 <p align="right">
   <a href="#sex-check-qc" title="Up">
