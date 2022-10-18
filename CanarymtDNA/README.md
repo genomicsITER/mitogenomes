@@ -24,12 +24,6 @@ The mitogenome of 896 unrelated canaries was sequenced by means of next-generati
   
 </p>
 
-<p align="right">
-  <a href="#top" title="Up">
-    <img src="https://github.com/genomicsITER/mitogenomes/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
-  </a>
-</p>
-
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
