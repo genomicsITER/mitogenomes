@@ -26,7 +26,7 @@ This is the result of a continuous collaborative effort of the following Institu
 
 ## Table of contents ##
 <ul>
-  <li><a href="#Mitogenomes and NGS data projects">Mitogenomes and NGS data projects</a></li>
+  <li><a href="#Mitogenomes and NGS data related projects">Mitogenomes and NGS data related projects</a></li>
   <ul>
     <li><a href="#Digging into the admixture strata of current-day Canary Islanders based on mitogenomes">Digging into the admixture strata of current-day Canary Islanders based on mitogenomes</a></li>
   </ul>
@@ -44,10 +44,17 @@ This is the result of a continuous collaborative effort of the following Institu
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-<a name="Mitogenomes and NGS data projects"></a>
-## Mitogenomes and NGS data projects ##
+<a name="Mitogenomes and NGS data related projects"></a>
+## Mitogenomes and NGS data related projects ##
 
-Text here. Stay tunned!
+<a name="Digging into the admixture strata of current-day Canary Islanders based on mitogenomes"></a>
+### Digging into the admixture strata of current-day Canary Islanders based on mitogenomes ###
+
+The European conquest of the Canary Islands began at the beginning of the fifteenth century and culminated in 1496 with the surrender of the aborigines. The collapse of the aboriginal population during the conquest and the arrival of continental settlers caused a drastic change in the demographic composition of the archipelago. To delve into this historical process, we analyze the complete mitochondrial genome of the contemporary Canarian population.
+
+The mitogenome of 896 unrelated canaries was sequenced by means of next-generation sequencing (NGS), obtaining the largest and most comprehensive maternal genetic characterization of the Canarian population to date.
+
+See more: <a href="https://github.com/genomicsITER/mitogenomes/tree/main/CanarymtDNA">here</a>
 
 <p align="right">
   <a href="#top" title="Up">
