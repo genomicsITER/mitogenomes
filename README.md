@@ -6,7 +6,7 @@
 <!-- ------------------ SECTION ------------------ -->
 <a name="toc"></a>
 <p align="left">
-  <a href="https://github.com/genomicsITER/monkeypox" title="Instituto Tecnológico y de Energ&iacute;as Renovables (ITER) / Institute of Technology and Renewable Energy (ITER)">
+  <a href="https://github.com/genomicsITER/mitogenomes" title="Instituto Tecnológico y de Energ&iacute;as Renovables (ITER) / Institute of Technology and Renewable Energy (ITER)">
     <img src="https://github.com/genomicsITER/mitogenomes/blob/main/images/ITER_logo.png" width="auto" /> 
       </a>
 </p>
@@ -36,7 +36,7 @@ This is the result of a continuous collaborative effort of the following Institu
 </ul>
 
 <p align="right">
-  <a href="#sex-check-qc" title="Up">
+  <a href="#top" title="Up">
     <img src="https://github.com/genomicsITER/mitogenomes/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -50,7 +50,7 @@ This is the result of a continuous collaborative effort of the following Institu
 Text here. Stay tunned!
 
 <p align="right">
-  <a href="#sex-check-qc" title="Up">
+  <a href="#top" title="Up">
     <img src="https://github.com/genomicsITER/mitogenomes/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -66,7 +66,7 @@ This repository and data exports are released under the CC BY 4.0 license. Pleas
 Please cite as: _"Mitogenomes from NGS data, GitHub repository at https://github.com/genomicsITER/mitogenomes (accessed on YYYY-MM-DD)"_.
 
 <p align="right">
-  <a href="#sex-check-qc" title="Up">
+  <a href="#top" title="Up">
     <img src="https://github.com/genomicsITER/mitogenomes/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -90,7 +90,7 @@ By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twi
 Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @labcflores on Twitter" > @labcflores<img src="https://github.com/genomicsITER/mitogenomes/blob/main/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <p align="right">
-  <a href="#sex-check-qc" title="Up">
+  <a href="#top" title="Up">
     <img src="https://github.com/genomicsITER/mitogenomes/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -106,7 +106,7 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 > September 15, 2022. The repository is populated with the first content.
 
 <p align="right">
-  <a href="#sex-check-qc" title="Up">
+  <a href="#top" title="Up">
     <img src="https://github.com/genomicsITER/mitogenomes/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
