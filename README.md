@@ -100,8 +100,9 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 <a name="Update logs"></a>
 ## Update logs ##
 
-> September 15, 2022. The repository is populated with the first content.
 > October 18, 2022. Added "Digging into the admixture strata of current-day Canary Islanders based on mitogenomes" project.
+
+> September 15, 2022. The repository is populated with the first content.
 
 <p align="right">
   <a href="#sex-check-qc" title="Up">
