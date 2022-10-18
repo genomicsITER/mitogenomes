@@ -24,12 +24,24 @@ The mitogenome of 896 unrelated canaries was sequenced by means of next-generati
   
 </p>
 
+<p align="right">
+  <a href="#top" title="Up">
+    <img src="https://github.com/genomicsITER/mitogenomes/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
 # About this repository #
 
 This repository contains materials used for the manuscript entitled: "Digging into the admixture strata of current-day Canary Islanders based on mitogenomes".
+
+<p align="right">
+  <a href="#top" title="Up">
+    <img src="https://github.com/genomicsITER/mitogenomes/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
@@ -43,7 +55,7 @@ The `scripts` folder contains code to generate data used in the paper. As a gene
 | bootstrap_rho.py | Generate bootstrapped mtDNA alignments from a sequence aligned in `PHYLIP` format (.phy extension). |
 
 <p align="right">
-  <a href="#sex-check-qc" title="Up">
+  <a href="#top" title="Up">
     <img src="https://github.com/genomicsITER/mitogenomes/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
