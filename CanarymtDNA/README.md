@@ -42,8 +42,6 @@ The mitogenome of 896 unrelated canaries was sequenced by means of next-generati
 
 # Data availability #
 
-The sequence data used in this work have been submitted to NCBI GenBank and will be available by Apr 30, 2023.
-
 The data generated as part of this study has been deposited in the National Center of Biotechnology Information (NCBI, https://www.ncbi.nlm.nih.gov/). Mitogenomes can be found under the accession numbers GenBank: <a href="https://www.ncbi.nlm.nih.gov/nuccore/OP681790">OP681790</a> to GenBank: <a href="https://www.ncbi.nlm.nih.gov/nuccore/OP682685">OP682685</a>.
 
 <p align="right">
